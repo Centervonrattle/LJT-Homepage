@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Composing Parameter-Efficient Modules with Arithmetic Operations"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: conferences
+permalink: /publication/composing-parameter-efficient
+date: 2023-12-02
+venue: 'NeurIPS 2023'
+citation: 'Jinghan Zhang, Shiqi Chen, <b>Junteng Liu</b>, Junxian He. (2023). &quot;Composing Parameter-Efficient Modules with Arithmetic Operations.&quot; <i>Advances in Neural Information Processing Systems 36 (NeurIPS 2023)</i>.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+**Authors:** Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He
+
+**Venue:** NeurIPS 2023
