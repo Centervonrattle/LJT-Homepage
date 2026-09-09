@@ -42,17 +42,17 @@ The complete list of my papers, together with code and bibtex entries, is availa
 
 ## Publications
 
-1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** *(first author)* — arXiv preprint, 2025
+1. [**SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**](/publication/synlogic) *(first author)* — arXiv preprint, 2025
    - *Junteng Liu*, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. Code is released on GitHub.
-2. **On the Perception Bottleneck of VLMs for Chart Understanding** *(first author)* — arXiv preprint, 2025
+2. [**On the Perception Bottleneck of VLMs for Chart Understanding**](/publication/perception-bottleneck-vlm-chart-understanding) *(first author)* — arXiv preprint, 2025
    - *Junteng Liu*, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. Code is released in the `Vision4Chart` repository on GitHub.
-3. **On the Universal Truthfulness Hyperplane Inside LLMs** *(first author)* — EMNLP 2024
+3. [**On the Universal Truthfulness Hyperplane Inside LLMs**](/publication/universal-truthfulness-hyperplane) *(first author)* — EMNLP 2024
    - *Junteng Liu*, Shiqi Chen, Yu Cheng, Junxian He. Code is released in the `Universal_Truthfulness_Hyperplane` repository on GitHub.
-4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** — ICML 2024
+4. [**In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**](/publication/in-context-sharpness-alerts) — ICML 2024
    - Shiqi Chen, Miao Xiong, *Junteng Liu*, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He.
-5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** — NeurIPS 2023
+5. [**C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**](/publication/ceval) — NeurIPS 2023
    - Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, *Junteng Liu*, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He.
-6. **Composing Parameter-Efficient Modules with Arithmetic Operations** — NeurIPS 2023
+6. [**Composing Parameter-Efficient Modules with Arithmetic Operations**](/publication/composing-parameter-efficient-modules) — NeurIPS 2023
    - Jinghan Zhang, Shiqi Chen, *Junteng Liu*, Junxian He.
 
 ## Skills
