@@ -1,8 +1,8 @@
 name: Deploy Jekyll site to Pages
 
+# Run this workflow manually from the Actions tab once GitHub Pages has been
+# enabled for the repository (Settings -> Pages -> Source: GitHub Actions).
 on:
-  push:
-    branches: [master]
   workflow_dispatch:
 
 permissions:
@@ -22,8 +22,6 @@ jobs:
         uses: actions/checkout@v4
       - name: Configure Pages
         uses: actions/configure-pages@v5
-        with:
-          enablement: true
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
