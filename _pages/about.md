@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate in Computer Science at the Hong Kong University of Science and Technology (HKUST) and a member of the HKUST NLP Group, where I am supervised by Prof. Junxian He. My research focuses on natural language processing and machine learning. I received my B.Eng. degree from Shanghai Jiao Tong University (SJTU) in June 2024.
+I am a first-year Ph.D. candidate in Computer Science at the Hong Kong University of Science and Technology (HKUST) and a member of the HKUST NLP Group, supervised by Prof. Junxian He, who also advised me during my undergraduate studies. My research focuses on natural language processing and machine learning. I received my B.Eng. degree from Shanghai Jiao Tong University (SJTU) in June 2024.
 
 ## Research Interests
 
@@ -36,8 +36,8 @@ I am a first-year Ph.D. candidate in Computer Science at the Hong Kong Universit
 ### First-author publications
 
 - **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** — **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *arXiv*, 2025.
-- **On the Perception Bottleneck of VLMs for Chart Understanding** — **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *arXiv*, 2025.
-- **On the Universal Truthfulness Hyperplane Inside LLMs** — **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He. *EMNLP 2024*.
+- **On the Perception Bottleneck of VLMs for Chart Understanding** — **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *arXiv*, 2025. (Code repository: Vision4Chart)
+- **On the Universal Truthfulness Hyperplane Inside LLMs** — **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He. *EMNLP 2024*. (Code repository: Universal_Truthfulness_Hyperplane)
 
 ### Co-authored publications
 
