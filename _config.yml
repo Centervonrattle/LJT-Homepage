@@ -168,16 +168,19 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
+  - .devcontainer
   - .github
   - .jekyll-assets-cache
   - .sass-cache
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
+  - AGENTS.md
   - CHANGELOG
   - Capfile
   - config
   - Dockerfile
+  - docker-compose.yaml
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
@@ -188,6 +191,9 @@ exclude:
   - package.json*
   - Rakefile
   - README
+  - README.md
+  - scripts
+  - talkmap
   - tmp
   - vendor
 keep_files:
