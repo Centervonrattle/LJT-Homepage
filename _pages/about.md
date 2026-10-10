@@ -62,7 +62,7 @@ I am currently a research intern at **MINIMAX**, and I have previously worked as
 * **Composing Parameter-Efficient Modules with Arithmetic Operations** — *NeurIPS 2023*
   Authors: Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He
 
-More information about each paper, including the paper and code links, can be found on the [Publications](/publications/) page.
+More information about each paper, including the paper and code links, can be found on the [Publications]({{ site.baseurl }}/publications/) page.
 
 ## Contact
 
